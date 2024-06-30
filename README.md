@@ -7,11 +7,10 @@
 
 <p>I specialize in developing full-stack web applications using MongoDB, Express.js, React, and Node.js.</p>
 
-<ul>
-  <li>🌱 I’m currently learning <b>Nest.js</b></li>
-  <li>💬 Ask me about <b>MERN Stack, JavaScript, and Web Development</b></li>
-  <li>📫 How to reach me: <a href="mailto:sazidulalam20@gmail.com">sazidulalam20@gmail.com</a></li>
-</ul>
+- 🌱 I’m currently learning **Nest.js**
+- 💬 Ask me about **MERN Stack, JavaScript, and Web Development**
+- 📫 How to reach me: [sazidulalam20@gmail.com](mailto:sazidulalam20@gmail.com)
+- 🌐 My portfolio: [https://sazidul-alam.vercel.app](https://sazidul-alam.vercel.app)
 
 <h3 align="left">🚀 What is the MERN Stack?</h3>
 <p>MERN is an open-source JavaScript software stack designed for creating dynamic websites and web applications.</p>
