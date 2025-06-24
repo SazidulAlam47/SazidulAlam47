@@ -11,7 +11,7 @@
 <!--   <li>🌱 I’m currently learning <b>Nest.js</b></li> -->
   <li>💬 Ask me about <b>MERN Stack, JavaScript, and Web Development</b></li>
   <li>📫 How to reach me: <a href="mailto:sazidulalam20@gmail.com">sazidulalam20@gmail.com</a></li>
-  <li>🌐 My portfolio: <a href="https://sazidul-alam.vercel.app" target="_blank" >https://sazidul-alam.vercel.app/</a></li>
+  <li>🌐 My portfolio: <a href="https://sazidulalam.me/" target="_blank" >https://sazidulalam.me/</a></li>
 </ul>
 
 <h3 align="left">🚀 What is the MERN Stack?</h3>
