@@ -150,8 +150,3 @@
 
 <h3 align="left">Fun Animation:</h3>
 <img src="https://raw.githubusercontent.com/SazidulAlam47/SazidulAlam47/output/snake.svg" alt="Snake animation" />
-
-<h3 align="left">Profile Counter:</h3>
-<div align="left">
-  <img src="https://profile-counter.glitch.me/SazidulAlam47/count.svg?" />
-</div>
